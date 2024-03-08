@@ -21,3 +21,8 @@ The `let` keyword works. It shows that variables declared with `let` are only av
 **        arrow functions dont have their own bindings to "this" keyword
         can not be used as constructors
         can not use yeild within their bidy and can be created as generator functions. 
+        
+const materials = ['Hydrogen', 'Helium', 'Lithium', 'Beryllium'];
+
+console.log(materials.map((material) => material.length));
+// Expected output: Array [8, 6, 7, 9]
