@@ -1,8 +1,4 @@
 
-
-Curriculum
-Short Specializations Average: 41.03%
-0x04. Typescript
 JavaScriptTypeScript
 
     By: Johann Kerbrat, Engineering Manager at Uber Works
@@ -52,7 +48,7 @@ Click to show/hide file contents
 webpack.config.js
 Click to show/hide file contents
 Tasks
-0. Creating an interface for a student
+1. Creating an interface for a student
 mandatory
 
 Copy the following configuration files (provided above) into the task_0 directory: package.json, .eslintrc.js, tsconfig.json, webpack.config.js
