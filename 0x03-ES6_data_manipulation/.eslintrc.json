@@ -1,11 +1,11 @@
 {
     "env": {
         "browser": true,
-        "es2020": true
+        "es2021": true
     },
-    "extends": "standard-with-typescript",
+    "extends": "eslint:recommended",
     "parserOptions": {
-        "ecmaVersion": 2020,
+        "ecmaVersion": "latest",
         "sourceType": "module"
     },
     "rules": {

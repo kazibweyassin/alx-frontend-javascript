@@ -114,7 +114,21 @@ const persona = new Object();
 person.firstName = "John";
 person.lastName = "Doe";
 person.age = 50;
+
 person.eyeColor = "blue";
+//reduce()
+// reduces an arrays  values into one value
+
+
+// The accumulator parameter is the single value that will be returned by the reduce() method. It will contain the value returned by the callback function in each iteration.
+// 
+
+// typed Array
+
+// https://web.dev/articles/webgl-typed-arrays
+
+
+
 
 
 
